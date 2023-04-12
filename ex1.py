@@ -1,0 +1,7 @@
+print ("Hola morro")
+print ("Como estas el dia de hoy")
+print ("Seguro que tambien esta lloviendo")
+print ("En un mundo de locos, es el cuerdo al que llaman loco")
+print ("Hasta la lluvia que viene del cielo, queda ante mis pies")
+print ("jajajaja")
+print ("Adios uwu")
